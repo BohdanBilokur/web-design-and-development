@@ -1,6 +1,12 @@
-Here are Figma projects I developed for clients.
+## Projects
 
-https://www.figma.com/proto/a7BHOOkOaszwOnFp1wKHTF/Karl-Lagerfeld?node-id=0-1&t=Ipkb6X1NV1wXTYz6-1
+### Morpheus 8 Landing Page
 
+**Role:** Web Designer / Tilda Developer  
+**Tools:** Figma, Tilda
 
-https://www.figma.com/design/56ejHfy4lbtk1owx66i7Lj/Design-project-XXX?node-id=0-1&t=J8V0ZTPVfHkHXAmD-1
+Landing page project for an aesthetic medicine service.
+
+I worked on the page structure, visual design, responsive layout and implementation in Tilda.
+
+https://project3406729.tilda.ws/
