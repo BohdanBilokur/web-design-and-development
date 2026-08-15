@@ -1,9 +1,27 @@
 ## Projects
 
+### Fitness Trainer Landing Page
+
+**Role:** Web Designer / Tilda Developer  
+**Tools:** Tilda 
+
+**Status:** Completed
+
+Landing page project for a personal fitness trainer.
+
+I worked on the landing page structure, design, visual layout, and implementation in Tilda.
+
+🎥 [Website Demo](https://drive.google.com/file/d/1dT1UL8eXCidVPtS9zICFn5A6vT7FtO9l/view?usp=sharing)
+
+
+
+
+
+
 ### Morpheus 8 Landing Page
 
 **Role:** Web Designer / Tilda Developer  
-**Tools:** Figma, Tilda 
+**Tools:** Tilda
 
 **Status:** Project was not completed
 
