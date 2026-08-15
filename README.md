@@ -10,7 +10,6 @@ Multi-page website design created in Figma for HR team specialising in facilitat
 
 I designed the desktop layout across several pages, developed structure according to project brief, designed visual block's and overall UX.
 
-<br>
 **Design Process:** Research → Mind Map → Wireframe → Final UI Design
 
 
@@ -19,6 +18,22 @@ I designed the desktop layout across several pages, developed structure accordin
 🔗 [View Wireframe](https://www.figma.com/design/fUrJUV7vzOxwXHiINjNFHV/Prototipe?node-id=0-1&t=G6iCepg0goJSoTM1-1)   
 
 🔗 [View Project Mind Maps](https://www.figma.com/board/uQoBagwHB92UQOwl1qjPsl/%D0%9F%D0%BB%D0%B0%D0%BD-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE-%D1%81%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%B0?node-id=0-1&t=yOxWsmNgXQUu4xr6-1)
+
+<br>
+
+### Karl Lagerfeld Website
+
+**Role:** Web Designer / Tilda Developer  
+**Tools:** Figma, Tilda  
+**Status:** Completed
+
+Website project focused on the life and work of Karl Lagerfeld.
+
+I created the page prototype in Figma and then built the website in Tilda based on project brief
+
+🔗 [View Figma Design](https://www.figma.com/design/a7BHOOkOaszwOnFp1wKHTF/Karl-Lagerfeld?node-id=0-1&t=Nqr1YnxOdqmSxwIs-1)  
+🎥 [Website Demo](https://drive.google.com/file/d/1_OuqImKd-cNgyFbeqMfE_YpIlrxfDLc2/view?usp=sharing)
+
 
 <br>
 
