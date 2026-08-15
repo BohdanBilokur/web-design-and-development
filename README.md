@@ -3,11 +3,11 @@
 ### Morpheus 8 Landing Page
 
 **Role:** Web Designer / Tilda Developer  
-**Tools:** Figma, Tilda
+**Tools:** Figma, Tilda 
+
 **Status:** Project was not completed
 
 Landing page project for a medicine service.
-
 I worked on the page structure, visual design, layout for PC and Mobile versions and implementation in Tilda.
 
 
