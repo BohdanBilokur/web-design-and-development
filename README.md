@@ -32,16 +32,28 @@ Website project focused on the life and work of Karl Lagerfeld.
 I created the page prototype in Figma and then built the website in Tilda based on project brief
 
 🔗 [View Figma Design](https://www.figma.com/design/a7BHOOkOaszwOnFp1wKHTF/Karl-Lagerfeld?node-id=0-1&t=Nqr1YnxOdqmSxwIs-1)  
-🎥 [Website Demo](https://drive.google.com/file/d/1_OuqImKd-cNgyFbeqMfE_YpIlrxfDLc2/view?usp=sharing)
+🎥 [Website Demo](https://drive.google.com/file/d/1VOUve-CJIcsLSHNOS6ctIeKcjN1ji8AM/view?usp=sharing)
 
+<br>
+
+### English for Everyone Website Design
+
+**Role:** Web Designer  
+**Tools:** Figma  
+**Status:** Completed 
+
+Recreation of an existing website design for practice.
+
+I created the page structure and visual design in Figma, including separate desktop and mobile versions.
+
+🔗 [View Figma Design](https://www.figma.com/design/2ImbAxsDbw9DpjkO5yLSeJ/English-for-everyone?node-id=0-1&t=nVmYoF2PNhxApCgc-1)
 
 <br>
 
 ### Fitness Trainer Landing Page
 
 **Role:** Web Designer / Tilda Developer  
-**Tools:** Tilda 
-
+**Tools:** Tilda  
 **Status:** Completed
 
 Landing page project for a personal fitness trainer.
@@ -67,8 +79,7 @@ I worked with Zero blocks, organised content into sections and adapted design fo
 ### Morpheus 8 Landing Page
 
 **Role:** Web Designer / Tilda Developer  
-**Tools:** Tilda
-
+**Tools:** Tilda  
 **Status:** Project was not completed
 
 Landing page project for a medicine service.
