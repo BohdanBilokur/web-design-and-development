@@ -23,7 +23,7 @@ I designed the desktop layout across several pages, developed structure accordin
 
 ### Karl Lagerfeld Website
 
-**Role:** Web Designer / Tilda Developer  
+**Role:** Web Designer    
 **Tools:** Figma, Tilda  
 **Status:** Completed
 
@@ -50,22 +50,9 @@ I created the page structure and visual design in Figma, including separate desk
 
 <br>
 
-### Fitness Trainer Landing Page
-
-**Role:** Web Designer / Tilda Developer  
-**Tools:** Tilda  
-**Status:** Completed
-
-Landing page project for a personal fitness trainer.
-I created landing page in Tilda, focusing on structure, visual presentation and mobile version.
-
-🎥 [Website Demo](https://drive.google.com/file/d/1dT1UL8eXCidVPtS9zICFn5A6vT7FtO9l/view?usp=sharing)
-
-<br>
-
 ### Tax Consultant Landing Page
 
-**Role:** Web Designer / Tilda Developer  
+**Role:** Web Designer  
 **Tools:** Tilda  
 **Status:** Completed
 
@@ -76,9 +63,22 @@ I worked with Zero blocks, organised content into sections and adapted design fo
 
 <br>
 
+### Fitness Trainer Landing Page
+
+**Role:** Web Designer  
+**Tools:** Tilda  
+**Status:** Completed
+
+Landing page project for a personal fitness trainer.
+I created landing page in Tilda, focusing on structure, visual presentation and mobile version.
+
+🎥 [Website Demo](https://drive.google.com/file/d/1dT1UL8eXCidVPtS9zICFn5A6vT7FtO9l/view?usp=sharing)
+
+<br>
+
 ### Morpheus 8 Landing Page
 
-**Role:** Web Designer / Tilda Developer  
+**Role:** Web Designer  
 **Tools:** Tilda  
 **Status:** Project was not completed
 
