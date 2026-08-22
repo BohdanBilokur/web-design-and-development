@@ -1,5 +1,7 @@
 ## Projects
+
 <br>
+
 ### HR Consulting Website Design
 
 **Role:** Web Designer  
